@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+header{
+    height: 150px;
+    background-image: url('https://p4.wallpaperbetter.com/wallpaper/892/159/782/jojo-s-bizarre-adventure-jojo-no-kimyou-na-bouken-steel-ball-run-johnny-joestar-gyro-zeppeli-hd-wallpaper-preview.jpg');
+}
+
+.logo{|
+position: absolute;
+width: 100px;
+height: 100px;
+}
